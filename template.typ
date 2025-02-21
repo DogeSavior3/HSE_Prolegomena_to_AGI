@@ -47,7 +47,6 @@
         outline(
             title: none,
             indent: 5mm,
-            fill: none
         )
     }
 
@@ -86,11 +85,10 @@
     set text(
         lang: "ru",
         size: 12pt,
-        font: "Times New Roman"
+        font: "New Computer Modern"
     )
     title_page
     outline_page
     main_pages
 }
-
 

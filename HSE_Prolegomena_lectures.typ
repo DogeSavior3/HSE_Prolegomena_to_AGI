@@ -6,4 +6,4 @@
 #include "lecture3.typ"
 #include "lecture4.typ"
 #include "lecture5.typ"
-
+#include "lecture6.typ"
