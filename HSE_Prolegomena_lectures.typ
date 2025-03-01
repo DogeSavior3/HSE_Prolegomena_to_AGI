@@ -7,3 +7,4 @@
 #include "lecture4.typ"
 #include "lecture5.typ"
 #include "lecture6.typ"
+#include "lecture7.typ"
