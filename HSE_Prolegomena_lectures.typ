@@ -8,3 +8,4 @@
 #include "lecture5.typ"
 #include "lecture6.typ"
 #include "lecture7.typ"
+#include "lecture8.typ"
