@@ -10,3 +10,4 @@
 #include "lecture7.typ"
 #include "lecture8.typ"
 #include "lecture9.typ"
+#include "lecture10.typ"
