@@ -44,7 +44,7 @@ $ y(h) = y(0) + integral_0^h f(x,y) d x $
 
 Самый простейший метод оценки -- посчитать площадь трапеции под функцией. 
 
-#image("lecture_9_pics/picture1.jpeg", width: 25%)
+#image("../images/lecture_9_images/picture1.jpeg", width: 25%)
 
 Давайте рассмотрим площадь прямоугольника, она будет примерно равна $ h dot f(0, y(0)) $
 
