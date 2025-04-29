@@ -14,3 +14,4 @@
 #include "lectures/lecture11.typ"
 #include "lectures/lecture12.typ"
 #include "lectures/lecture13.typ"
+#include "lectures/lecture15.typ"
