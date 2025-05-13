@@ -1,4 +1,7 @@
 #set text(font: "New Computer Modern", lang: "ru")
+// #set page(margin: 1.75in)
+// #set par(leading: 1em, spacing: 1em, first-line-indent: 1.8em, justify: true)
+
 #import "template.typ": template
 #show: body => template(body)
 #include "lectures/lecture1.typ"
@@ -15,3 +18,4 @@
 #include "lectures/lecture12.typ"
 #include "lectures/lecture13.typ"
 #include "lectures/lecture15.typ"
+#include "lectures/lecture16.typ"
