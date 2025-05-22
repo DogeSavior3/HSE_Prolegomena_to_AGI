@@ -1,4 +1,5 @@
 #set text(font: "New Computer Modern", lang: "ru")
+#set text(hyphenate: false)
 // #set page(margin: 1.75in)
 // #set par(leading: 1em, spacing: 1em, first-line-indent: 1.8em, justify: true)
 
