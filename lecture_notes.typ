@@ -25,3 +25,4 @@
 #include "lectures/lecture18.typ"
 #include "lectures/lecture19.typ"
 #include "lectures/lecture20.typ"
+#include "lectures/lecture21.typ"
