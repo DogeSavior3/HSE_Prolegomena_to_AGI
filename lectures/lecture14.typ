@@ -106,7 +106,7 @@ $ f(x_0(t) + epsilon u(t)) = f(x_0(t)) + D f(x)dot epsilon u(t) + o(epsilon^2) $
 
 $ D f(x) = (partial f_i (x))/(partial x_j) |_(x = x_0(t)) $
 
-Сократим $f(x_o(t))$ и пренебрежим $o(epsilon)$:
+Сократим $f(x_0(t))$ и пренебрежим $o(epsilon)$:
 
 $ accent(u, dot)(t) = D f (x_0) dot u(t) $
 
